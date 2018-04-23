@@ -105,7 +105,7 @@
 					<div class="feature-center animate-box" data-animate-effect="fadeIn">
 						
 						<h3>Cloves</h3>
-						<p>4 whole cloves.</p>
+						<p>4 whole cloves</p>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6">
@@ -154,8 +154,15 @@
 		<div class="gtco-container text-center">
 			<div class="display-t">
 				<div class="display-tc">
-					<h1>&ldquo; Their high quality of service makes me back over and over again!&rdquo;</h1>
-					<p>&mdash; John Doe, CEO of XYZ Co.</p>
+					
+					<p>In a mortar, crush the cloves, cardamom pods and cinnamon, or use a coffee grinder.<br>
+Transfer the crushed spices to a small saucepan, add the water, ginger and pepper and bring to a boil.<br>
+Remove the pan from the heat, cover and let steep for 5 minutes.<br>
+Add the milk and sugar to the pan and bring to a boil.<br>
+Remove from the heat and add the tea.<br>
+Cover and let steep for 3 minutes.<br>
+Stir the chai, then strain it into a warmed teapot or directly into teacups.<br>
+Enjoy!</p>
 				</div>	
 			</div>
 		</div>
