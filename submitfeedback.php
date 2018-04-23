@@ -11,7 +11,9 @@ echo $feedback;
 
 $my_query = "INSERT INTO Feedback(Name, Email, suggestion) VALUES ('$name','$email','$feedback')";
     echo "<br>";
+echo"it reaches here too";
 $result= mysqli_query($connection, $my_query);
+echo "it reches here as well";
     if($result){
         echo "Thank you for the feedback";
         //header("Location:displayfeedback.php");
