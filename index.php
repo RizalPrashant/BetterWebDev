@@ -89,7 +89,7 @@
 									<div class="tab-content">
 										<div class="tab-content-inner active" data-content="signup">
 											<h3 class="cursive-font">Have an account? Log in</h3>
-											<form action="#">
+											<form action="trylogging.php" accept-charset="ISO-8859-1" method = "get">
 												
 												<div class="row form-group">
 													<div class="col-md-12">
