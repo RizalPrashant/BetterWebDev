@@ -264,36 +264,7 @@
 				</div>
 			</div>
 
-			<div class="row">
-				
-				<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInUp">
-					<div class="feature-center">
-						<span class="counter js-counter" data-from="0" data-to="5" data-speed="5000" data-refresh-interval="50">1</span>
-						<span class="counter-label">Avg. Rating</span>
-
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInUp">
-					<div class="feature-center">
-						<span class="counter js-counter" data-from="0" data-to="43" data-speed="5000" data-refresh-interval="50">1</span>
-						<span class="counter-label">Food Types</span>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInUp">
-					<div class="feature-center">
-						<span class="counter js-counter" data-from="0" data-to="32" data-speed="5000" data-refresh-interval="50">1</span>
-						<span class="counter-label">Chef Cook</span>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInUp">
-					<div class="feature-center">
-						<span class="counter js-counter" data-from="0" data-to="1985" data-speed="5000" data-refresh-interval="50">1</span>
-						<span class="counter-label">Year Started</span>
-
-					</div>
-				</div>
-					
-			</div>
+			
 		</div>
 	</div>
 
