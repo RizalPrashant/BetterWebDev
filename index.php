@@ -260,7 +260,7 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading animate-box">
 					<h2 class="cursive-font primary-color">Reasonable Prices</h2>
-					<p>All recipes included here are pretty cheap to cook. The ingrediends are easily affordable and easily available. With the recipe, I also included links to the ingredients with which you can buy all you need to prepare that food with one single click.</p>
+					<p>All recipes included here are pretty cheap to cook. The ingredients are easily affordable and easily available. With the recipe, I also included links to the ingredients with which you can buy all you need to prepare that food with one single click.</p>
 				</div>
 			</div>
 
@@ -275,13 +275,18 @@
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
 					<h2 class="cursive-font">Subscribe</h2>
-					<p>Be the first to know about the new templates.</p>
+					
 				</div>
 			</div>
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2">
 					<form class="form-inline">
 						<div class="col-md-6 col-sm-6">
+							<div class="form-group">
+								<label for="email" class="sr-only">Email</label>
+								<input type="email" class="form-control" id="email" placeholder="Your Email">
+							</div>
+                            <div class="col-md-6 col-sm-6">
 							<div class="form-group">
 								<label for="email" class="sr-only">Email</label>
 								<input type="email" class="form-control" id="email" placeholder="Your Email">
