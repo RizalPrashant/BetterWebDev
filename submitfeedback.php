@@ -4,6 +4,9 @@ $name = mysqli_real_escape_string($connection, $_GET['name']);
 $email = mysqli_real_escape_string($connection,$_GET['email']);
 $feedback = mysqli_real_escape_string($connection,$_GET['feedback']);
 $my_query = "";
+echo $name;
+echo $email;
+echo $feedback;
 echo "<br>";
 
 $my_query = "INSERT INTO Feedback(Name, Email, suggestion) VALUES ('$name','$email','$feedback')";
