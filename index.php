@@ -58,7 +58,7 @@
 						<li class="has-dropdown">
 							<a href="services.html">Selections</a>
 							<ul class="dropdown">
-								<li><a href="#">Snacks</a></li>
+								<li><a href="#">Breakfast</a></li>
 								<li><a href="#">Lunch</a></li>
 								<li><a href="#">Dinner</a></li>
 							</ul>
@@ -132,47 +132,48 @@
 		<div class="gtco-container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-					<h2 class="cursive-font primary-color">Popular Dishes</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<h2 class="cursive-font primary-color">Popular Nepalese Cuisine</h2>
+					<p>I cook a nepalese food often, which is why I decided to share my recipes
+                        through this website for anyone who desires to learn.</p>
 				</div>
 			</div>
 			<div class="row">
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/img_1.jpg" class="fh5co-card-item image-popup">
+					<a href="masalachai.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/img_1.jpg" alt="Image" class="img-responsive">
+							<img src="masalachai.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Fresh Mushrooms</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
-							<p><span class="price cursive-font">$19.15</span></p>
+							<h2>Masala Chai</h2>
+							<p>Nothing like taking sips of masala chai early morning when you wake up...</p>
+							<p><span class="price cursive-font">$10</span></p>
 						</div>
 					</a>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/img_2.jpg" class="fh5co-card-item image-popup">
+					<a href="aluchana.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/img_2.jpg" alt="Image" class="img-responsive">
+							<img src="aluchana.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Cheese and Garlic Toast</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
-							<p><span class="price cursive-font">$20.99</span></p>
+							<h2>Alu Chana</h2>
+							<p>Nicely fried and flavored potato and chickpeas.</p>
+							<p><span class="price cursive-font">$15</span></p>
 						</div>
 					</a>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/img_3.jpg" class="fh5co-card-item image-popup">
+					<a href="roticauli.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/img_3.jpg" alt="Image" class="img-responsive">
+							<img src="roticauli.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Grilled Chiken Salad</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<h2>Roti Cauli</h2>
+							<p>Nepalese style totilla with cauliflower</p>
 							<p><span class="price cursive-font">$8.99</span></p>
 
 						</div>
@@ -181,42 +182,42 @@
 
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/img_4.jpg" class="fh5co-card-item image-popup">
+					<a href="parotha.jpeg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/img_4.jpg" alt="Image" class="img-responsive">
+							<img src="parotha.jpeg" alt="Image" class="img-responsive">
 						</figure>
-						<div class="fh5co-text">
-							<h2>Organic Egg</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+						<div class="special kind of nepalese bread with potatos merged inside">
+							<h2>Alu Parotha</h2>
+							<p>One of a personal favorite of mine, this dish satisfies your lunch needs perfectly</p>
 							<p><span class="price cursive-font">$12.99</span></p>
 						</div>
 					</a>
 				</div>
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/img_5.jpg" class="fh5co-card-item image-popup">
+					<a href="snack4.jpeg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/img_5.jpg" alt="Image" class="img-responsive">
+							<img src="snack4.jpeg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Tomato Soup with Chicken</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<h2>Aloo Chat</h2>
+							<p>Perfect combination of spices, chutney, yogurt potatoes and much more....</p>
 							<p><span class="price cursive-font">$23.10</span></p>
 						</div>
 					</a>
 				</div>
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/img_6.jpg" class="fh5co-card-item image-popup">
+					<a href="dinner4.jpeg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/img_6.jpg" alt="Image" class="img-responsive">
+							<img src="dinner4.jpeg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Salad with Crispy Chicken</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<h2>Chicken Biryani</h2>
+							<p>One of the best chicken and rice dishes you could ever prepare...</p>
 							<p><span class="price cursive-font">$5.59</span></p>
 						</div>
 					</a>
