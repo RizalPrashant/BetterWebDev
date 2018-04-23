@@ -95,13 +95,13 @@
 												<div class="row form-group">
 													<div class="col-md-12">
 														<label for="date-start">Username</label>
-														<input type="text" id="date" class="form-control">
+														<input type="text" id="username" class="form-control">
 													</div>
 												</div>
 												<div class="row form-group">
 													<div class="col-md-12">
 														<label for="date-start">Password</label>
-														<input type="password" id="time" class="form-control">
+														<input type="password" id="password" class="form-control">
 													</div>
 												</div>
 
