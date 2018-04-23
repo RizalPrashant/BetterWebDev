@@ -66,7 +66,7 @@
 							<a href="#">Selections</a>
 							<ul class="dropdown">
                                 <?php
-                                if($_SESSION['uname'] == ""){
+                                if(is_null($_SESSION['uname'])){
                                     echo "<li><a href="index.php">Login First</a></li>";
                                 }
                                 else{
