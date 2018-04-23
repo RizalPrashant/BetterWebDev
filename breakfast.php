@@ -172,21 +172,15 @@ Enjoy!</p>
 		<div class="gtco-container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-					<h2 class="cursive-font">Subscribe</h2>
-					<p>Be the first to know about the new templates.</p>
+					<h2 class="cursive-font">One Click Easy Buy</h2>
 				</div>
 			</div>
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2">
-					<form class="form-inline">
+					<form method = "link" action= "https://www.amazon.com/hz/wishlist/ls/2EYR1XLVDWAUA?&sort=default" class="form-inline">
+						
 						<div class="col-md-6 col-sm-6">
-							<div class="form-group">
-								<label for="email" class="sr-only">Email</label>
-								<input type="email" class="form-control" id="email" placeholder="Your Email">
-							</div>
-						</div>
-						<div class="col-md-6 col-sm-6">
-							<button type="submit" class="btn btn-default btn-block">Subscribe</button>
+							<button type="submit" class="btn btn-default btn-block">Buy Ingredients</button>
 						</div>
 					</form>
 				</div>
