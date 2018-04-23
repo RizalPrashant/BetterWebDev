@@ -10,7 +10,8 @@ $my_query = "INSERT INTO Feedback(Name, Email, suggestion) VALUES ('$name','$ema
     echo "<br>";
 $result= mysqli_query($connection, $my_query);
     if($result){
-        echo"Thank you for the feedback!";        
+        header("Location: displayfeedback.php" ); 
+        //echo"Thank you for the feedback!";        
     }
     else{
         echo"No way";   

@@ -95,11 +95,11 @@
 				<div class="col-md-12">
 					<div class="col-md-6 animate-box">
 					<h3>Submit Feedback</h3>
-					<form action="#">
+					<form action="submitfeedback.php" accept-charset="ISO-8859-1" method="get" id="submitform">
 						<div class="row form-group">
 							<div class="col-md-12">
 								<label class="sr-only" for="name">Name</label>
-								<input type="text" id="name" class="form-control" placeholder="Your firstname">
+								<input type="text" name="name" pattern="[a-zA-Z ]{2,30}" placeholder="Enter Name" required class="form-control" >
 							</div>
 							
 						</div>
@@ -107,13 +107,13 @@
 						<div class="row form-group">
 							<div class="col-md-12">
 								<label class="sr-only" for="email">Email</label>
-								<input type="text" id="email" class="form-control" placeholder="Your email address">
+								<input type="email" name="email" placeholder="Enter valid Email" required class="form-control" >
 							</div>
 						</div>
 						<div class="row form-group">
 							<div class="col-md-12">
 								<label class="sr-only" for="message">Message</label>
-								<textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Write feedback"></textarea>
+								<textarea name="feedback" id="message" cols="30" rows="10" class="form-control" required ></textarea>
 							</div>
 						</div>
 						<div class="form-group">
