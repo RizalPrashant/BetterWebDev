@@ -133,7 +133,7 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
 					<h2 class="cursive-font primary-color">Popular Nepalese Cuisine</h2>
-					<p>I cook a nepalese food often, which is why I decided to share my recipes
+					<p>I cook nepalese food often, which is why I decided to share my recipes
                         through this website for anyone who desires to learn.</p>
 				</div>
 			</div>
@@ -187,7 +187,7 @@
 							<div class="overlay"><i class="ti-plus"></i></div>
 							<img src="parotha.jpeg" alt="Image" class="img-responsive">
 						</figure>
-						<div class="special kind of nepalese bread with potatos merged inside">
+						<div class="fh5co-text">
 							<h2>Alu Parotha</h2>
 							<p>One of a personal favorite of mine, this dish satisfies your lunch needs perfectly</p>
 							<p><span class="price cursive-font">$12.99</span></p>
