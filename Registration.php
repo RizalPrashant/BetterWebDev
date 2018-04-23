@@ -18,8 +18,8 @@ $my_query = "select * from User where Username = '$uname'";
 
 $result= mysqli_query($connection, $my_query);
 if(mysqli_num_rows($result) > 0){
-     $_SESSION['errors'] = array("Username already taken");
-header("Location:index.php");
+//     $_SESSION['errors'] = array("Username already taken");
+header("Location:recreate.html");
     //echo "Sorry! Username already in use please choose a new one";
 }
 else
