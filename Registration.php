@@ -24,6 +24,7 @@ else
 {
     
     $stmt->execute();
+        header("Location: index.php"); 
     //echo "Created";
     $stmt->close();
 
