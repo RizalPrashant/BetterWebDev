@@ -247,8 +247,8 @@
 		<div class="gtco-container text-center">
 			<div class="display-t">
 				<div class="display-tc">
-					<h1>&ldquo; Their high quality of service makes me back over and over again!&rdquo;</h1>
-					<p>&mdash; John Doe, CEO of XYZ Co.</p>
+					<h1>Wonderful food that are only of beginner to intermediate difficulties. </h1>
+					
 				</div>	
 			</div>
 		</div>
@@ -259,8 +259,8 @@
 
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading animate-box">
-					<h2 class="cursive-font primary-color">Fun Facts</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<h2 class="cursive-font primary-color">Reasonable Prices</h2>
+					<p>All recipes included here are pretty cheap to cook. The ingrediends are easily affordable and easily available. With the recipe, I also included links to the ingredients with which you can buy all you need to prepare that food with one single click.</p>
 				</div>
 			</div>
 
