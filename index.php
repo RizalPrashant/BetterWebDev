@@ -1,30 +1,12 @@
 <!DOCTYPE HTML>
-<!--
-	Aesthetic by gettemplates.co
-	Twitter: http://twitter.com/gettemplateco
-	URL: http://gettemplates.co
--->
 <html>
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Savory &mdash; Free Website Template, Free HTML5 Template by GetTemplates.co</title>
+	<title>Nepalese Food Recipe</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Website Template by GetTemplates.co" />
-	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
-	<meta name="author" content="GetTemplates.co" />
 
-  	<!-- Facebook and Twitter integration -->
-	<meta property="og:title" content=""/>
-	<meta property="og:image" content=""/>
-	<meta property="og:url" content=""/>
-	<meta property="og:site_name" content=""/>
-	<meta property="og:description" content=""/>
-	<meta name="twitter:title" content="" />
-	<meta name="twitter:image" content="" />
-	<meta name="twitter:url" content="" />
-	<meta name="twitter:card" content="" />
-
+  	
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
 	
@@ -52,10 +34,7 @@
 
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
-	<!-- FOR IE9 below -->
-	<!--[if lt IE 9]>
-	<script src="js/respond.min.js"></script>
-	<![endif]-->
+	
 
 	</head>
 	<body>
@@ -71,25 +50,24 @@
 			
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="index.html">Savory <em>.</em></a></div>
+					<div id="gtco-logo"><a href="index.html">Home <em>.</em></a></div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
-						<li><a href="menu.html">Menu</a></li>
+						<li><a href="menu.html">One-Click recipes</a></li>
 						<li class="has-dropdown">
-							<a href="services.html">Services</a>
+							<a href="services.html">Selections</a>
 							<ul class="dropdown">
-								<li><a href="#">Food Catering</a></li>
-								<li><a href="#">Wedding Celebration</a></li>
-								<li><a href="#">Birthday's Celebration</a></li>
+								<li><a href="#">Snacks</a></li>
+								<li><a href="#">Lunch</a></li>
+								<li><a href="#">Dinner</a></li>
 							</ul>
 						</li>
-						<li><a href="contact.html">Contact</a></li>
-						<li class="btn-cta"><a href="#"><span>Reservation</span></a></li>
+						<li><a href="contact.html">Feedback</a></li>
+						<li class="btn-cta"><a href="#"><span>Sign up</span></a></li>
 					</ul>	
 				</div>
 			</div>
-			
 		</div>
 	</nav>
 	
@@ -102,8 +80,8 @@
 
 					<div class="row row-mt-15em">
 						<div class="col-md-7 mt-text animate-box" data-animate-effect="fadeInUp">
-							<span class="intro-text-small">Hand-crafted by <a href="http://gettemplates.co" target="_blank">GetTemplates.co</a></span>
-							<h1 class="cursive-font">All in good taste!</h1>	
+							<span class="intro-text-small">Authentic Nepalese Cuisine</span>
+							<h1 class="cursive-font">Prepare at your own home</h1>	
 						</div>
 						<div class="col-md-4 col-md-push-1 animate-box" data-animate-effect="fadeInRight">
 							<div class="form-wrap">
@@ -111,37 +89,25 @@
 									
 									<div class="tab-content">
 										<div class="tab-content-inner active" data-content="signup">
-											<h3 class="cursive-font">Table Reservation</h3>
+											<h3 class="cursive-font">Have an account? Log in</h3>
 											<form action="#">
+												
 												<div class="row form-group">
 													<div class="col-md-12">
-														<label for="activities">Persons</label>
-														<select name="#" id="activities" class="form-control">
-															<option value="">Persons</option>
-															<option value="">1</option>
-															<option value="">2</option>
-															<option value="">3</option>
-															<option value="">4</option>
-															<option value="">5+</option>
-														</select>
-													</div>
-												</div>
-												<div class="row form-group">
-													<div class="col-md-12">
-														<label for="date-start">Date</label>
+														<label for="date-start">Username</label>
 														<input type="text" id="date" class="form-control">
 													</div>
 												</div>
 												<div class="row form-group">
 													<div class="col-md-12">
-														<label for="date-start">Time</label>
-														<input type="text" id="time" class="form-control">
+														<label for="date-start">Password</label>
+														<input type="password" id="time" class="form-control">
 													</div>
 												</div>
 
 												<div class="row form-group">
 													<div class="col-md-12">
-														<input type="submit" class="btn btn-primary btn-block" value="Reserve Now">
+														<input type="submit" class="btn btn-primary btn-block" value="Log in">
 													</div>
 												</div>
 											</form>	
