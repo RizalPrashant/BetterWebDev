@@ -146,7 +146,7 @@
 						</figure>
 						<div class="fh5co-text">
 							<h2>Aloo Chana</h2>
-							<p>Nicely fried and flavored potato and chickpeas</p>
+							<p> potato and chickpeas</p>
 							<p><span class="price cursive-font">$19.15</span></p>
 						</div>
 					</a>
@@ -159,7 +159,7 @@
 						</figure>
 						<div class="fh5co-text">
 							<h2>Parotha</h2>
-							<p>Special kind of tortilla with potatoes merged in it</p>
+							<p>Special tortilla with potatoes in it</p>
 							<p><span class="price cursive-font">$20.99</span></p>
 						</div>
 					</a>
