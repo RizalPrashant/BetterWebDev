@@ -201,7 +201,7 @@
 							<img src="dinner4.jpeg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Chicken Biryani</h2>
+							<h2>Biryani</h2>
 							<p>One of the best chicken and rice dinner you can ever prepare</p>
 							<p><span class="price cursive-font">$23.10</span></p>
 						</div>
@@ -215,7 +215,7 @@
 							<img src="masalachai.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Salad with Crispy Chicken</h2>
+							<h2>Masala Chai</h2>
 							<p>Nothing like taking a sip of this wonderful chai early morning</p>
 							<p><span class="price cursive-font">$5.59</span></p>
 						</div>
