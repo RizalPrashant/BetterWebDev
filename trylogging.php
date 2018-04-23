@@ -16,7 +16,7 @@ $my_query = "select * from User where Username = '$uname' and Password = '$passw
 $result= mysqli_query($connection, $my_query);
 if(mysqli_num_rows($result) > 0){
     $_SESSION["uname"] = $uname;
-    header("Location: index.php"); 
+    header("Location: breakfast.php"); 
     exit();
 }
 else{
