@@ -28,8 +28,8 @@ else
 {
     
     $stmt->execute();
-    $_SESSION['errors'] = array("Cool!! Now log in.");
-        header("Location: index.php"); 
+    $_SESSION['happy'] = array("Account Creation Success");
+        header("Location: index.php #redirectthis"  ); 
     //echo "Created";
     $stmt->close();
 
