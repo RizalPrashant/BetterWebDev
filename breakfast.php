@@ -4,7 +4,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Savory &mdash; Snacks</title>
+	<title> Snacks</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
@@ -97,50 +97,50 @@
 		<div class="gtco-container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading animate-box">
-					<h2 class="cursive-font">Ingredients</h2>
+					<h2 class="cursive-font">Ingredients (Per each serving) </h2>
 					
 			</div>
 			<div class="row">
 				<div class="col-md-4 col-sm-6">
 					<div class="feature-center animate-box" data-animate-effect="fadeIn">
 						
-						<h3>Happy People</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+						<h3>Cloves</h3>
+						<p>4 whole cloves.</p>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6">
 					<div class="feature-center animate-box" data-animate-effect="fadeIn">
 						
-						<h3>Creative Culinary</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+						<h3>Cardamom</h3>
+						<p>2 cardamom pods</p>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6">
 					<div class="feature-center animate-box" data-animate-effect="fadeIn">
 						
-						<h3>Food Delivery</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+						<h3>Chai</h3>
+						<p>2 tablespoon of chai</p>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6">
 					<div class="feature-center animate-box" data-animate-effect="fadeIn">
 						
-						<h3>Happy People</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+						<h3>Tea Masala</h3>
+						<p>1 tablespoon of tea masala</p>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6">
 					<div class="feature-center animate-box" data-animate-effect="fadeIn">
 						
-						<h3>Creative Culinary</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+						<h3>Ginger</h3>
+						<p>(Optional) Put to your taste</p>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6">
 					<div class="feature-center animate-box" data-animate-effect="fadeIn">
 						
-						<h3>Food Delivery</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+						<h3>Milk</h3>
+						<p>1 Cup</p>
 					</div>
 				</div>
 
