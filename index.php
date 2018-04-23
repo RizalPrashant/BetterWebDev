@@ -295,13 +295,7 @@
 										<div class="tab-content-inner active" data-content="signup">
 											<h3 class="cursive-font">Create an account</h3>
 											<form id = "redirectthis" action="Registration.php" method="get" accept-charset="ISO-8859-1">
-                                                <?php if (isset($_SESSION['errors'])): ?>
-                                                <div class="form-errors">
-                                                    <?php foreach($_SESSION['errors'] as $error): ?>
-                                                    <p><?php echo $error ?></p>
-                                                    <?php endforeach; ?>
-                                                    </div>
-                                                <?php endif; ?>
+                                                
 												
 												<div class="row form-group">
 													<div class="col-md-12">
