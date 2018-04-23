@@ -154,7 +154,7 @@
 		<div class="gtco-container text-center">
 			<div class="display-t">
 				<div class="display-tc">
-					
+					<h1>Steps </h1>
 					<p>In a mortar, crush the cloves, cardamom pods and cinnamon, or use a coffee grinder.<br>
 Transfer the crushed spices to a small saucepan, add the water, ginger and pepper and bring to a boil.<br>
 Remove the pan from the heat, cover and let steep for 5 minutes.<br>
