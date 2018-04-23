@@ -57,12 +57,12 @@
 						<li class="has-dropdown">
 							<a href="#">Selections</a>
 							<ul class="dropdown">
-								<li><a href="snacks.php">Snacks</a></li>
-								<li><a href="#">Lunch</a></li>
-								<li><a href="#">Dinner</a></li>
+								<li><a href="breakfast.php">breakfast</a></li>
+								<li><a href="lunch.php">Lunch</a></li>
+								<li><a href="dinner.php">Dinner</a></li>
 							</ul>
 						</li>
-						<li><a href="contact.html">Feedback</a></li>
+						<li><a href="feedback.php">Feedback</a></li>
 						<li class="btn-cta"><a href="#redirectthis"><span>Sign up</span></a></li>
 					</ul>	
 				</div>

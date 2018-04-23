@@ -51,26 +51,26 @@
 			
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="index.html">Home</a></div>
+					<div id="gtco-logo"><a href="index.php">Home</a></div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
 						<li class="has-dropdown">
 							<a href="#">Selections</a>
 							<ul class="dropdown">
-								<li><a href="snacks.php">Snacks</a></li>
-								<li><a href="#">Lunch</a></li>
-								<li><a href="#">Dinner</a></li>
+								<li><a href="breakfast.php">Breakfast</a></li>
+								<li><a href="lunch.php">Lunch</a></li>
+								<li><a href="dinner.php">Dinner</a></li>
 							</ul>
 						</li>
-						<li><a href="contact.html">Feedback</a></li>
-						<li class="btn-cta"><a href="#redirectthis"><span>Sign up</span></a></li>
+						<li><a href="feedback.php">Feedback</a></li>
+						<li class="btn-cta"><a href="#"><span>Log out</span></a></li>
 					</ul>	
 				</div>
 			</div>
 		</div>
 	</nav>
-	<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image: url(images/img_bg_1.jpg)" data-stellar-background-ratio="0.5">
+	<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image: url(masalachai.jpg)" data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
 		<div class="gtco-container">
 			<div class="row">
@@ -79,8 +79,8 @@
 
 					<div class="row row-mt-15em">
 						<div class="col-md-12 mt-text animate-box" data-animate-effect="fadeInUp">
-							<span class="intro-text-small">Hand-crafted by <a href="http://gettemplates.co" target="_blank">GetTemplates.co</a></span>
-							<h1 class="cursive-font">It's our pleasure to serve!</h1>	
+							<span class="intro-text-small">Recipe</span>
+							<h1 class="cursive-font">Masala Chai</h1>	
 						</div>
 						
 					</div>
