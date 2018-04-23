@@ -77,7 +77,7 @@ if(!isset($_SERVER['HTTP_REFERER'])){
 							</ul>
 						</li>
 						<li><a href="feedback.php">Feedback</a></li>
-						<li class="btn-cta"><a href="#"><span>Log out</span></a></li>
+						<li class="btn-cta"><a href="logout.php"><span>Log out</span></a></li>
 					</ul>	
 				</div>
 			</div>
