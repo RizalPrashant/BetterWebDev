@@ -20,7 +20,9 @@ if(mysqli_num_rows($result) > 0){
     exit();
 }
 else{
-    echo "Incorrect Username or Password. Please try again";
+    $_SESSION['errors'] = array("Your username or password was incorrect.");
+header("Location:index.php");
+    //echo "Incorrect Username or Password. Please try again";
 }
 if(isset($_GET['logout'])){
     session_unregister("uname");

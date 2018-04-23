@@ -1,3 +1,11 @@
+<?php
+    session_start();
+if(!isset($_SERVER['HTTP_REFERER'])){
+    // redirect them to your desired location
+    header('location:../login.php');
+    exit;
+}
+?>
 <!DOCTYPE HTML>
 <html>
 	<head>
@@ -90,7 +98,13 @@
 										<div class="tab-content-inner active" data-content="signup">
 											<h3 class="cursive-font">Have an account? Log in</h3>
 											<form action="trylogging.php" accept-charset="ISO-8859-1" method = "get">
-												
+												<?php if (isset($_SESSION['errors'])): ?>
+                                                <div class="form-errors">
+                                                    <?php foreach($_SESSION['errors'] as $error): ?>
+                                                    <p><?php echo $error ?></p>
+                                                    <?php endforeach; ?>
+                                                    </div>
+                                                <?php endif; ?>
 												<div class="row form-group">
 													<div class="col-md-12">
 														<label for="date-start">Username</label>
