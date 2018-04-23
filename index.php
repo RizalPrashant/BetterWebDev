@@ -57,7 +57,7 @@
 						<li class="has-dropdown">
 							<a href="#">Selections</a>
 							<ul class="dropdown">
-								<li><a href="#">Snacks</a></li>
+								<li><a href="snacks.php">Snacks</a></li>
 								<li><a href="#">Lunch</a></li>
 								<li><a href="#">Dinner</a></li>
 							</ul>
