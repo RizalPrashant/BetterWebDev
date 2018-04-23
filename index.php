@@ -145,8 +145,8 @@
 							<img src="aluchana.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Fresh Mushrooms</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<h2>Aloo Chana</h2>
+							<p>Nicely fried and flavored potato and chickpeas</p>
 							<p><span class="price cursive-font">$19.15</span></p>
 						</div>
 					</a>
@@ -158,8 +158,8 @@
 							<img src="parotha.jpeg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Cheese and Garlic Toast</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<h2>Parotha</h2>
+							<p>Special kind of tortilla with potatoes merged in it</p>
 							<p><span class="price cursive-font">$20.99</span></p>
 						</div>
 					</a>
@@ -171,8 +171,8 @@
 							<img src="roticauli.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Grilled Chiken Salad</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<h2>Roti Cauli</h2>
+							<p>Nepalese style totilla with cauliflower</p>
 							<p><span class="price cursive-font">$8.99</span></p>
 
 						</div>
@@ -187,8 +187,8 @@
 							<img src="snack4.jpeg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Organic Egg</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<h2>Aloo Chat</h2>
+							<p>Perfect combination of potato, chutney, spices and yogurt</p>
 							<p><span class="price cursive-font">$12.99</span></p>
 						</div>
 					</a>
@@ -201,8 +201,8 @@
 							<img src="dinner4.jpeg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Tomato Soup with Chicken</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<h2>Chicken Biryani</h2>
+							<p>One of the best chicken and rice dinner you can ever prepare</p>
 							<p><span class="price cursive-font">$23.10</span></p>
 						</div>
 					</a>
@@ -216,7 +216,7 @@
 						</figure>
 						<div class="fh5co-text">
 							<h2>Salad with Crispy Chicken</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<p>Nothing like taking a sip of this wonderful chai early morning</p>
 							<p><span class="price cursive-font">$5.59</span></p>
 						</div>
 					</a>
