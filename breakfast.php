@@ -2,7 +2,7 @@
     session_start();
 if(!isset($_SERVER['HTTP_REFERER'])){
     // redirect them to your desired location
-    header('location:../index.php');
+    header('location:index.php');
     exit;
 }
 ?>
@@ -59,7 +59,12 @@ if(!isset($_SERVER['HTTP_REFERER'])){
 			
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="index.php">Home</a></div>
+					<div id="gtco-logo"><a href="index.php">Home</a>
+                    <?php
+                        //Crost site script check
+                        echo 'Hi, '.  htmlspecialchars($_SESSION["uname"], ENT_QUOTES, 'UTF-8');
+                        ?>
+                    </div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>

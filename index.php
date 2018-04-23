@@ -60,9 +60,10 @@ if(!isset($_SERVER['HTTP_REFERER'])){
 				<div class="col-sm-4 col-xs-12">
 					<div id="gtco-logo"><a href="index.html">Home</a>  
                     <?php
-    //Crost site script check
-    echo 'Hi, '.  htmlspecialchars($_SESSION["uname"], ENT_QUOTES, 'UTF-8');
-?></div>
+                        //Crost site script check
+                        echo 'Hi, '.  htmlspecialchars($_SESSION["uname"], ENT_QUOTES, 'UTF-8');
+                        ?>
+                    </div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
