@@ -55,7 +55,7 @@
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
 						<li class="has-dropdown">
-							<a href="services.html">Selections</a>
+							Selections
 							<ul class="dropdown">
 								<li><a href="#">Snacks</a></li>
 								<li><a href="#">Lunch</a></li>
