@@ -65,14 +65,7 @@
 						<li class="has-dropdown">
 							<a href="#">Selections</a>
 							<ul class="dropdown">
-                                <?php
-                                if(is_null($_SESSION['uname'])){
-                                    echo "<li><a href="index.php">Login First</a></li>";
-                                }
-                                else{
-                                    echo"<li><a href="breakfast.php">breakfast</a></li>";
-                                }
-                                ?>
+                                <li><a href="breakfast.php">BreakFast</a></li>
 								
 								<li><a href="lunch.php">Lunch</a></li>
 								<li><a href="dinner.php">Dinner</a></li>
