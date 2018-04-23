@@ -50,11 +50,10 @@
 			
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="index.html">Home <em>.</em></a></div>
+					<div id="gtco-logo"><a href="index.html">Home</a></div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
-						<li><a href="menu.html">One-Click recipes</a></li>
 						<li class="has-dropdown">
 							<a href="services.html">Selections</a>
 							<ul class="dropdown">
@@ -322,8 +321,8 @@
 					<div class="gtco-widget">
 						<h3>My Contact Information</h3>
 						<ul class="gtco-quick-contact">
-							<li><a href="#"><i class="icon-phone"></i> +507-351-5303</a></li>
-							<li><a href="#"><i class="icon-mail2"></i> prsnt.rizal@gmail.com</a></li>
+							<li><i class="icon-phone"></i> +507-351-5303</li>
+							<li><i class="icon-mail2"></i> prsnt.rizal@gmail.com</li>
 						</ul>
 					</div>
 					
