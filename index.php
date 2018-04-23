@@ -56,7 +56,7 @@
 					<div id="gtco-logo"><a href="index.html">Home</a>  
                     <?php
                         //Crost site script check
-                        echo 'Hi, '.  htmlspecialchars($_SESSION["uname"], ENT_QUOTES, 'UTF-8');
+                        echo 'Hi, '.  htmlspecialchars($_SESSION['uname'], ENT_QUOTES, 'UTF-8');
                         ?>
                     </div>
 				</div>
