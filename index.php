@@ -132,17 +132,17 @@
 		<div class="gtco-container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-					<h2 class="cursive-font primary-color">Popular Dishes</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<h2 class="cursive-font primary-color">Authentic Nepalese Cuisine</h2>
+					<p>Prepare authentic Nepalese cuisine at home whenever you desire.</p>
 				</div>
 			</div>
 			<div class="row">
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/img_1.jpg" class="fh5co-card-item image-popup">
+					<a href="aluchana.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/img_1.jpg" alt="Image" class="img-responsive">
+							<img src="aluchana.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
 							<h2>Fresh Mushrooms</h2>
@@ -152,10 +152,10 @@
 					</a>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/img_2.jpg" class="fh5co-card-item image-popup">
+					<a href="parotha.jpeg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/img_2.jpg" alt="Image" class="img-responsive">
+							<img src="parotha.jpeg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
 							<h2>Cheese and Garlic Toast</h2>
@@ -165,10 +165,10 @@
 					</a>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/img_3.jpg" class="fh5co-card-item image-popup">
+					<a href="roticauli.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/img_3.jpg" alt="Image" class="img-responsive">
+							<img src="roticauli.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
 							<h2>Grilled Chiken Salad</h2>
@@ -181,10 +181,10 @@
 
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/img_4.jpg" class="fh5co-card-item image-popup">
+					<a href="snack4.jpeg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/img_4.jpg" alt="Image" class="img-responsive">
+							<img src="snack4.jpeg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
 							<h2>Organic Egg</h2>
@@ -195,10 +195,10 @@
 				</div>
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/img_5.jpg" class="fh5co-card-item image-popup">
+					<a href="dinner4.jpeg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/img_5.jpg" alt="Image" class="img-responsive">
+							<img src="dinner4.jpeg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
 							<h2>Tomato Soup with Chicken</h2>
@@ -209,10 +209,10 @@
 				</div>
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/img_6.jpg" class="fh5co-card-item image-popup">
+					<a href="masalachai.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/img_6.jpg" alt="Image" class="img-responsive">
+							<img src="masalachai.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
 							<h2>Salad with Crispy Chicken</h2>
