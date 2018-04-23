@@ -67,10 +67,10 @@
 							<ul class="dropdown">
                                 <?php
                                 if($_SESSION('uname') == ""){
-                                    echo '<li><a href="index.php">Login First</a></li>';
+                                    echo "<li><a href="index.php">Login First</a></li>";
                                 }
                                 else{
-                                    echo'<li><a href="breakfast.php">breakfast</a></li>';
+                                    echo"<li><a href="breakfast.php">breakfast</a></li>";
                                 }
                                 ?>
 								
