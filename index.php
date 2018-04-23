@@ -133,7 +133,7 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
 					<h2 class="cursive-font primary-color">Popular Nepalese Cuisine</h2>
-					<p>I cook nepalese food often, which is why I decided to share my recipes
+					<p>I cook a nepalese food often, which is why I decided to share my recipes
                         through this website for anyone who desires to learn.</p>
 				</div>
 			</div>
@@ -185,39 +185,39 @@
 					<a href="parotha.jpeg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="parotha.jpeg" alt="Image" class="img-responsive">
+							<img src="aluchana.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Alu Parotha</h2>
-							<p>One of a personal favorite of mine, this dish satisfies your lunch needs perfectly</p>
+							<h2>Organic Egg</h2>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
 							<p><span class="price cursive-font">$12.99</span></p>
 						</div>
 					</a>
 				</div>
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="snack4.jpeg" class="fh5co-card-item image-popup">
+					<a href="images/img_5.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="snack4.jpeg" alt="Image" class="img-responsive">
+							<img src="images/img_5.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Aloo Chat</h2>
-							<p>Perfect combination of spices, chutney, yogurt potatoes and much more....</p>
+							<h2>Tomato Soup with Chicken</h2>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
 							<p><span class="price cursive-font">$23.10</span></p>
 						</div>
 					</a>
 				</div>
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="dinner4.jpeg" class="fh5co-card-item image-popup">
+					<a href="images/img_6.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="dinner4.jpeg" alt="Image" class="img-responsive">
+							<img src="images/img_6.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Chicken Biryani</h2>
-							<p>One of the best chicken and rice dishes you could ever prepare...</p>
+							<h2>Salad with Crispy Chicken</h2>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
 							<p><span class="price cursive-font">$5.59</span></p>
 						</div>
 					</a>
