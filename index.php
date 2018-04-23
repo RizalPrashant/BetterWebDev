@@ -293,18 +293,18 @@ if(!isset($_SERVER['HTTP_REFERER'])){
 									<div class="tab-content">
 										<div class="tab-content-inner active" data-content="signup">
 											<h3 class="cursive-font">Create an account</h3>
-											<form id = "redirectthis" action="#">
+											<form id = "redirectthis" action="Registration.php" method="get" accept-charset="ISO-8859-1">
 												
 												<div class="row form-group">
 													<div class="col-md-12">
 														<label for="date-start">Username</label>
-														<input type="text" id="username" class="form-control">
+														<input  type="text" id="uname" name="uname" placeholder="Enter Username" required class="form-control">
 													</div>
 												</div>
 												<div class="row form-group">
 													<div class="col-md-12">
 														<label for="date-start">Password</label>
-														<input type="password" id="password" class="form-control">
+														<input type="password" id="password" name="password" placeholder="Enter Password" required class="form-control">
 													</div>
 												</div>
 
