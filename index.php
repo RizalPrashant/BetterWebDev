@@ -63,7 +63,7 @@
 							</ul>
 						</li>
 						<li><a href="contact.html">Feedback</a></li>
-						<li class="btn-cta"><a href="#"><span>Sign up</span></a></li>
+						<li class="btn-cta"><a href="#redirectthis"><span>Sign up</span></a></li>
 					</ul>	
 				</div>
 			</div>
