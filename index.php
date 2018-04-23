@@ -146,7 +146,7 @@
 						<div class="fh5co-text">
 							<h2>Aloo Chana</h2>
 							<p> potato and chickpeas</p>
-							<p><span class="price cursive-font">$19.15</span></p>
+							<p><span class="price cursive-font">BreakFast</span></p>
 						</div>
 					</a>
 				</div>
@@ -159,7 +159,7 @@
 						<div class="fh5co-text">
 							<h2>Parotha</h2>
 							<p>Special tortilla with potatoes in it</p>
-							<p><span class="price cursive-font">$20.99</span></p>
+							<p><span class="price cursive-font">Lunch</span></p>
 						</div>
 					</a>
 				</div>
@@ -172,7 +172,7 @@
 						<div class="fh5co-text">
 							<h2>Roti Cauli</h2>
 							<p>Nepalese style tortilla with cauliflower</p>
-							<p><span class="price cursive-font">$8.99</span></p>
+							<p><span class="price cursive-font">Dinner</span></p>
 
 						</div>
 					</a>
@@ -188,7 +188,7 @@
 						<div class="fh5co-text">
 							<h2>Aloo Chat</h2>
 							<p>Perfect combination of potato, chutney, spices and yogurt</p>
-							<p><span class="price cursive-font">$12.99</span></p>
+							<p><span class="price cursive-font">Lunch</span></p>
 						</div>
 					</a>
 				</div>
@@ -202,7 +202,7 @@
 						<div class="fh5co-text">
 							<h2>Biryani</h2>
 							<p>One of the best chicken and rice dinner you can ever prepare</p>
-							<p><span class="price cursive-font">$23.10</span></p>
+							<p><span class="price cursive-font">Dinner</span></p>
 						</div>
 					</a>
 				</div>
@@ -216,7 +216,7 @@
 						<div class="fh5co-text">
 							<h2>Masala Chai</h2>
 							<p>Nothing like taking a sip of this wonderful chai early morning</p>
-							<p><span class="price cursive-font">$5.59</span></p>
+							<p><span class="price cursive-font">Breakfast</span></p>
 						</div>
 					</a>
 				</div>
