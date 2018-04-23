@@ -78,7 +78,7 @@
 					<div class="row row-mt-15em">
 						<div class="col-md-12 mt-text animate-box" data-animate-effect="fadeInUp">
 							
-							<h1 class="cursive-font">Submit a feedback!</h1>	
+                            <h1 class="cursive-font">Submit a <a href= "displayfeedback.php">feedback </a>!</h1>	
 						</div>
 						
 					</div>
